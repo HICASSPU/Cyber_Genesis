@@ -12,7 +12,7 @@ Cyber Genesis is an initiative by **[Varad Mene](https://github.com/menevarad007
 
 ## 🔥 What You'll Learn
 
-Here’s what you’ll gain from this 10-day journey:
+Here’s what you’ll gain from this  journey:
 
 1. **Cybersecurity Basics**
 2. **Networking Essentials**  
