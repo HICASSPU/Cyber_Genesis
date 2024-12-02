@@ -44,7 +44,7 @@ Contributions are welcome! If you have suggestions, corrections, or additional r
 
 ## 📢 About the Author
 
-This series is created by **[Varad Mene](https://github.com/varadmene)**, an Ethical Hacker dedicated to enhancing cybersecurity awareness.  
+This series is initiated by **[Varad Mene](https://github.com/varadmene)**, an Ethical Hacker dedicated to enhancing cybersecurity awareness.  
 Connect with me:  
 - [GitHub](https://github.com/menevarad007)  
 - [LinkedIn](http://www.linkedin.com/in/varadmene)  
