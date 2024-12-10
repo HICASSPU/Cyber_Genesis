@@ -1,6 +1,6 @@
 # Cyber Genesis 🚀
 
-**Cyber Genesis** is a 10-day series designed to guide beginners on their journey into the world of Cybersecurity. Whether you're a tech enthusiast, a student, or a budding hacker, this series provides structured and practical learning to kickstart your cybersecurity career.
+**Cyber Genesis** is a series designed to guide beginners on their journey into the world of Cybersecurity. Whether you're a tech enthusiast, a student, or a budding hacker, this series provides structured and practical learning to kickstart your cybersecurity career.
 
 ---
 
